@@ -1,5 +1,5 @@
 ## 思否SegmentFault  - Web 端功能测试 
-##### 项目地址：http://segmentfault.com
+##### 项目地址：https://segmentfault.com
 ##### 文档地址：https://zcnb17bafag5.feishu.cn/wiki/ERepweZW4iv9Glkc5RPcwRkHnwp
 ##### 测分文档：https://zcnb17bafag5.feishu.cn/wiki/WKYiwKf2QihwANkUgzYctoL8nWb
 ##### 接口测试文档：https://zcnb17bafag5.feishu.cn/wiki/TYOQw7ikBiJdq3kFsNjcAx4zn6g
